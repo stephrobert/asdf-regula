@@ -17,7 +17,7 @@
 
 # Dependencies
 
-- `bash`, `curl`, `tar`: generic POSIX utilities.
+- `bash`, `curl`, `tar`: generic POSIX utilities. 
 
 # Install
 
@@ -56,4 +56,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Stephane ROBERT](https://github.com/stephrobert/)
+See [LICENSE](LICENSE) © [Stephane ROBERT](https://blog.stephane-robert.info/)
